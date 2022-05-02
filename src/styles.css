@@ -61,5 +61,6 @@ li {
   text-decoration: none;
 }
 .name{
+  display: block;
   text-align: center;
 }
