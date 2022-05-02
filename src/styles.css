@@ -63,7 +63,7 @@ li {
 .name{
   display: block;
   text-align: center;
- margin-top: 2px;
+ margin-top: none;
 }
 .link {
 text-decoration: none;
